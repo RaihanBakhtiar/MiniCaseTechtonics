@@ -13,7 +13,7 @@ Use one row per source or evidence item. Do not place an external statistic in t
 
 1. Which initial segment has the sharpest need, reachable demand, and monetization potential?
 2. What alternatives do they use today and why would they choose Terang AI?
-3. Which channel can reach them efficiently at relevant seasonal moments?
+3. Which channel can reach them efficiently at relevant seasonal moments? Done **D-01**
 4. What first user outcome predicts continued use and premium conversion?
 5. Which assumptions determine feasibility most strongly?
 
@@ -21,4 +21,6 @@ Use one row per source or evidence item. Do not place an external statistic in t
 
 | Evidence | Insight (what it means) | Strategic implication | Confidence | Owner |
 |---|---|---|---|---|
-|  |  |  | High / Medium / Low |  |
+R-02, R-03 (UTBK 2025 dan 2026) |	Ujian jatuh di akhir April dua tahun berturut-turut, pengumuman akhir Mei |	UTBK 2027 sangat mungkin juga akhir April; puncak permintaan Maret–April |	Medium (pola 2 tahun, belum ada pengumuman 2027) |	Raihan
+R-01 |	Jadwal 2027 belum resmi per 16 Nov 2026 |	Roadmap memakai tanggal berlabel [A] dan diperbarui saat SNPMB rilis |	High |	Raihan
+R-02/R-03 |	Setelah pengumuman akhir Mei, kebutuhan UTBK turun |	Retensi pasca-ujian perlu dijaga lewat seleksi mandiri atau LPDP |	Medium |	Raihan
